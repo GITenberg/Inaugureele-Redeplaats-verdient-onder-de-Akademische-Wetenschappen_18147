@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6790
     wikipedia: http://en.wikipedia.org/wiki/Hieronymus_David_Gaubius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18147#Inaugureele-Redeplaats-verdient-onder-de-Akademische-Wetenschappen
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '2006-04-11'
 gutenberg_type: Text
